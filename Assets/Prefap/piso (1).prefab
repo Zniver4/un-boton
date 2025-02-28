@@ -59,6 +59,8 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -91,7 +93,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 524783897455596474}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 6441a6766e6fa224e825e70d0718cdf0, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
